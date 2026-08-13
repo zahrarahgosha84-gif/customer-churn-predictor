@@ -1,0 +1,11 @@
+torch
+scikit-learn
+pandas
+numpy
+plotly
+imbalanced-learn
+streamlit
+joblib
+seaborn
+matplotlib
+nbformat
