@@ -33,7 +33,7 @@ I started with a Logistic Regression model as a baseline, then moved on to the m
 ## Results
 
 <p align="center">
-  <img src="charts/model_comparison.png" width="560" alt="Model Comparison">
+  <img src="charts/model_comparison_1.png" width="560" alt="Model Comparison">
 </p>
 
 | Model | ROC-AUC | Recall (Churn) | F1 (Churn) |
